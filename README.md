@@ -8,11 +8,11 @@ npm install
 npm start
 ```
 
-# API Information: http://localhost:3000/docs/
-# API 
-# - Get List of All books: http://localhost:3000/books
-# - Get List of book by book Id : http://localhost:3000/books/{bookID}
-# Example: bookID = 1
+API Information: http://localhost:3000/docs/
+API 
+Get List of All books: http://localhost:3000/books
+Get List of book by book Id : http://localhost:3000/books/{bookID}
+Example: bookID = 1
 
-# Reference Information
-# 1. https://blog.logrocket.com/documenting-your-express-api-with-swagger/
+Reference Information
+https://blog.logrocket.com/documenting-your-express-api-with-swagger/
