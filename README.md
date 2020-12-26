@@ -9,10 +9,11 @@ npm start
 ```
 
 API Information: http://localhost:3000/docs/
-API 
-Get List of All books: http://localhost:3000/books
-Get List of book by book Id : http://localhost:3000/books/{bookID}
-Example: bookID = 1
 
-Reference Information
+Example:
+
+1. Get List of All books: http://localhost:3000/books
+2. Get List of book by book Id : http://localhost:3000/books/{bookID}
+
+Reference Link:
 https://blog.logrocket.com/documenting-your-express-api-with-swagger/
