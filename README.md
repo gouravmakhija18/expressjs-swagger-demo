@@ -14,6 +14,3 @@ Example:
 
 1. Get List of All books: http://localhost:3000/books
 2. Get List of book by book Id : http://localhost:3000/books/{bookID}
-
-Reference Link:
-https://blog.logrocket.com/documenting-your-express-api-with-swagger/
